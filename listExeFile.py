@@ -2,7 +2,7 @@
 
 import os
 
-path = '/home/data_analysis/netflix'
+path = '/home/data_analysis/tools/'
 
 files = os.listdir(path)
 
