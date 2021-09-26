@@ -1,6 +1,6 @@
 # List all the execlusive files in a given dir (Python)
 
-import glob,os
+import os
 
 path = '/home/data_analysis/netflix'
 
